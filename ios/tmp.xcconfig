@@ -1,0 +1,9 @@
+APP_NAME=SpeedyFaxDev
+APP_ID=com.reed.speedyfax
+SUFFIX_ID=.dev
+REVERSED_CLIENT_ID=com.googleusercontent.apps.1017021673833-pojfdn1dnlju001vhepeu6meftev8k76
+WEB_CLIENT_ID_IOS=1017021673833-pojfdn1dnlju001vhepeu6meftev8k76.apps.googleusercontent.com
+WEB_CLIENT_ID_ANDROID=1017021673833-4jja0unij6qbj753nboiskdktndk1827.apps.googleusercontent.com
+FACEBOOK_APP_ID=898285921590030
+FACEBOOK_CLIENT_TOKEN=cb204c6c2bb6cc6aa6bd31a24f453486
+BASE_URL=http:/$()/64.227.130.159:5004
